@@ -1,0 +1,2 @@
+Graphically log out from current session and login using the new user.
+ssh: use the command 'ssh newuser@localhost' and either have the keys or connect using password

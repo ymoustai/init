@@ -1,0 +1,2 @@
+sudo useradd
+sudo passwd

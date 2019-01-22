@@ -1,0 +1,2 @@
+ifconfig -a | grep "broadcast" | cut -d " " -f 6
+arp -a | grep "e1r" | cut -d "(" -f 2 | cut -d ")" -f 1
