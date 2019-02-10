@@ -1,1 +1,1 @@
-whois 143.204.10.202 | egrep '^[a-zA-Z]'
+after executing this command which is "whois 143.204.10.202 | egrep '^[a-zA-Z]'"we just find out that AWS (Amazon Web Services).

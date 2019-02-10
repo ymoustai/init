@@ -1,2 +1,2 @@
 ifconfig -a | grep "broadcast" | cut -d " " -f 6
-arp -a | grep "e1r" | cut -d "(" -f 2 | cut -d ")" -f 1
+ping -c2 10.12.255.255 |grep from | cut -d " " -f 4 | tr ":" " "

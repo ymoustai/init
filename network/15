@@ -1,1 +1,1 @@
-echo "intra.42.fr 43.19.122.85" > /etc/hosts
+echo "intra.42.fr 43.19.122.85" >> /etc/hosts

@@ -1,1 +1,1 @@
-traceroute slash16.org | grep nat
+nat (10.21.1.1)
